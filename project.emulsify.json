@@ -1,0 +1,7 @@
+{
+  "project": {
+    "platform": "drupal",
+    "name": "Emulsify Starter",
+    "machineName": "emulsify"
+  } 
+}
